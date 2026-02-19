@@ -1,0 +1,53 @@
+#!/bin/bash
+dnf update -y
+dnf install -y httpd php php-mysqlnd php-fpm
+systemctl start httpd
+systemctl enable httpd
+
+cat > /var/www/html/index.php << 'PHPEOF'
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3-Tier Application</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .info { background: #f0f0f0; padding: 20px; border-radius: 5px; }
+        .success { color: green; }
+        .error { color: red; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>3-Tier Web Application</h1>
+        <div class="info">
+            <h2>Server Information</h2>
+            <p><strong>Hostname:</strong> <?php echo gethostname(); ?></p>
+            <p><strong>Server IP:</strong> <?php echo $_SERVER['SERVER_ADDR']; ?></p>
+            <p><strong>Time:</strong> <?php echo date('Y-m-d H:i:s'); ?></p>
+        </div>
+        
+        <h2>Database Connection Test</h2>
+        <?php
+        $host = '${db_host}';
+        $user = '${db_username}';
+        $pass = '${db_password}';
+        $db   = '${db_name}';
+        
+        try {
+            $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
+            $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+            echo "<p class='success'>✓ Database connection successful!</p>";
+        } catch(PDOException $e) {
+            echo "<p class='error'>✗ Database connection failed: " . $e->getMessage() . "</p>";
+        }
+        ?>
+    </div>
+</body>
+</html>
+PHPEOF
+
+chown -R apache:apache /var/www/html
+chmod -R 755 /var/www/html
+systemctl restart httpd
+dnf install -y amazon-cloudwatch-agent
