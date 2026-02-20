@@ -306,7 +306,9 @@ Reserved Instances	Long-term cost savings
 Ibrahim Naleba
 Cloud & DevOps Engineer
 https://github.com/IBRAH-001
-https://www.linkedin.com/in/Ibrahim-Naleba
-<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 12 24 01 PM" src="https://github.com/user-attachments/assets/b4434f6b-830f-4c3b-bfe1-6121cb76e6b0" />
-<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 28 04 PM" src="https://github.com/user-attachments/assets/9f66cf45-ddc4-4ecc-8978-78334ed88ace" />
-<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 26 21 PM" src="https://github.com/user-attachments/assets/656904c7-ac43-4921-8573-fb7d8d082217" />
+https://www.linkedin.com/in/Ibrahim-Naleba<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 26 21 PM" src="https://github.com/user-attachments/assets/b2a37a66-4519-44b2-8014-4065c1244893" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 28 04 PM" src="https://github.com/user-attachments/assets/a81f8772-a0c3-4ef7-8f33-5742c742dc53" />
+<img width="1920" height="1080" alt="Screen Shot 2026-02-19 at 2 28 04 PM (2)" src="https://github.com/user-attachments/assets/7efaca79-84cb-4087-ae19-9c4c8ec15d72" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 26 58 PM" src="https://github.com/user-attachments/assets/e709a19a-3b49-4b94-b87e-28555ab4c94a" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 12 24 01 PM" src="https://github.com/user-attachments/assets/91fb33ce-3dee-4288-a9a7-ef216e0d55bc" />
+
