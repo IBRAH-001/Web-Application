@@ -1,5 +1,22 @@
+Markdown
 
+Copy
+Code
+Preview
 # 🚀 Enterprise-Grade 3-Tier Web Application on AWS (Terraform)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/IaC-Infrastructure%20as%20Code-blue?style=for-the-badge" alt="IaC">
+  <img src="https://img.shields.io/badge/High%20Availability-Production%20Ready-success?style=for-the-badge" alt="Production Ready">
+</p>
+
+<p align="center">
+  <b>A production-ready, enterprise-grade cloud architecture implementing Infrastructure as Code best practices</b>
+</p>
+
+---
 
 ## 📋 Table of Contents
 
@@ -59,6 +76,10 @@ The solution adheres to enterprise cloud design principles focusing on:
 │        Amazon RDS (Private Subnets - Multi-AZ)               │
 │              [Encrypted | Automated Backups]                 │
 └─────────────────────────────────────────────────────────────┘
+plain
+
+Copy
+
 ---
 
 ## 🌐 Networking Layer
@@ -280,9 +301,20 @@ Reserved Instances	Long-term cost savings
 ✅ Version-controlled infrastructure (Git)
 ✅ Reduced human configuration errors
 ✅ Improved system visibility
- 👨‍💻 Author    
+👨‍💻 Author
+
 Ibrahim Naleba
 Cloud & DevOps Engineer
-https://github.com/IBRAH-001
-https://www.linkedin.com/in/Ibrahim-Naleba
-
+<p align="left">
+  <a href="https://github.com/IBRAH-001">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/Ibrahim-Naleba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?styl<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 1 57 02 PM" src="https://github.com/user-attachments/assets/630b9b71-e246-42fd-aa0b-f22c28d55de1" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 26 21 PM" src="https://github.com/user-attachments/assets/4fc6dab5-8a57-458b-8b53-3bcb148cfa29" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 12 24 01 PM" src="https://github.com/user-attachments/assets/750628f7-6553-40e5-8171-734e5d3b1a9b" />
+<img width="1920" height="1080" alt="Screen Shot 2026-02-19 at 12 51 12 PM (2)" src="https://github.com/user-attachments/assets/f0ad79e3-56bc-4013-9586-3ee0740a82cb" />
+<img width="1920" height="1080" alt="Screen Shot 2026-02-19 at 2 28 04 PM (2)" src="https://github.com/user-attachments/assets/ced908b7-7b28-442d-8e78-57629b983940" />
+e=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
