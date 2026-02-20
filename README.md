@@ -1,4 +1,8 @@
-Markdown
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 26 21 PM" src="https://github.com/user-attachments/assets/a010e2d9-0e7d-40e5-a2e6-68788816733b" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 28 04 PM" src="https://github.com/user-attachments/assets/3d79a19e-0a33-4e5d-8b83-d5dfe3cffc1a" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 12 24 01 PM" src="https://github.com/user-attachments/assets/90e33eab-8339-4136-afb9-8db51950e2de" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 28 04 PM" src="https://github.com/user-attachments/assets/d2185733-78d1-4cd2-bbf4-d9a1f9d52e95" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 26 58 PM" src="https://github.com/user-attachments/assets/6fc847d1-2a42-4703-b55b-fb507629229d" />
 
 Copy
 Code
@@ -305,10 +309,15 @@ Reserved Instances	Long-term cost savings
 
 Ibrahim Naleba
 Cloud & DevOps Engineer
-https://github.com/IBRAH-001
-https://www.linkedin.com/in/Ibrahim-Naleba<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 26 21 PM" src="https://github.com/user-attachments/assets/b2a37a66-4519-44b2-8014-4065c1244893" />
-<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 28 04 PM" src="https://github.com/user-attachments/assets/a81f8772-a0c3-4ef7-8f33-5742c742dc53" />
-<img width="1920" height="1080" alt="Screen Shot 2026-02-19 at 2 28 04 PM (2)" src="https://github.com/user-attachments/assets/7efaca79-84cb-4087-ae19-9c4c8ec15d72" />
-<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 2 26 58 PM" src="https://github.com/user-attachments/assets/e709a19a-3b49-4b94-b87e-28555ab4c94a" />
-<img width="1440" height="900" alt="Screen Shot 2026-02-19 at 12 24 01 PM" src="https://github.com/user-attachments/assets/91fb33ce-3dee-4288-a9a7-ef216e0d55bc" />
-
+<p align="left">
+  <a href="https://github.com/IBRAH-001">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/Ibrahim-Naleba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+<p align="center">
+  <i>⭐ Star this repository if you find it helpful!</i>
+</p>
+```
