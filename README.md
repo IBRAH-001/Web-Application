@@ -309,15 +309,6 @@ Reserved Instances	Long-term cost savings
 
 Ibrahim Naleba
 Cloud & DevOps Engineer
-<p align="left">
-  <a href="https://github.com/IBRAH-001">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/Ibrahim-Naleba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-<p align="center">
-  <i>⭐ Star this repository if you find it helpful!</i>
-</p>
-```
+https://github.com/IBRAH-001
+https://www.linkedin.com/in/Ibrahim-Naleba
+
